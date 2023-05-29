@@ -1,4 +1,4 @@
-package org.learning.coffeebrew;
+package org.learning.designpatterns;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
