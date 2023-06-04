@@ -9,6 +9,6 @@ public class FactoryMethodDemo {
 
     public static void printMessage(MessageCreator creator){
         Message message = creator.getMessage();
-        System.out.println(message);
+        System.out.println(message.getContent());
     }
 }
